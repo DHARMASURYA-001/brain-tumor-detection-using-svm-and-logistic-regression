@@ -1,5 +1,6 @@
 # Brain Tumor Detection using Support Vector Machine (SVM) and Logistic Regression
 
+![o-BRAIN-TUMOR-facebook](https://github.com/DHARMASURYA-001/brain-tumor-detection-using-svm-and-logistic-regression/assets/76865771/cba5422d-e1ea-44cb-bd99-96be9be3e167)
 
 ## Introduction
 
